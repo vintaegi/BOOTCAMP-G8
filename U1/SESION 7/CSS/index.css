@@ -1,0 +1,25 @@
+body{
+
+    background-color: rgb(216, 194, 166);
+    text-align: center;
+   
+}
+
+.datos{
+
+    color: black;
+    width: 500px;
+    height: 300px;
+    /*border: 2px;
+    border-style: double;
+    border-radius: 2px; */
+
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+    margin-top: 200px;
+    margin-left: 700px;
+
+    padding-top: 40px;
+}
+

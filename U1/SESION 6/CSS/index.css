@@ -1,0 +1,37 @@
+h1{
+    color: rgb(122, 69, 0);
+
+    font-size:80px ;
+    font-family: Helvetica;
+}
+
+p{
+    color: rgb(0, 0, 0);background-color: rgb(149, 149, 149);
+    font-family: Helvetica;
+}
+
+div{
+
+    background-color: rgb(149, 149, 149);
+    border: 5px black;
+    border-style: solid;
+    border-radius: 30px;
+    color: rgb(128, 96, 0);
+    font-family: 'Times New Roman';
+}
+
+.hola{
+
+    color: rgb(166, 159, 166);
+}
+
+.hola1{
+
+    color: rgb(135, 135, 135);
+}
+
+.cajita{
+
+    background-color: rgb(149, 149, 149);
+    border-style: inset;
+}

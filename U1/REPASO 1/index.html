@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REPASO</title>
+    <link rel="stylesheet" href="./CSS/index.css">
+
+</head>
+<body>
+    
+    <!-- <div class="cajadedatos" onclick="reproduccion()"> -->
+    <div class="cajadedatos">    
+
+        <h1 class="titulo"> DATOS PERSONALES </h1>
+
+        <div class="datosdeusuario">
+
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" class="casillanombre" placeholder="ingresa tu nombre">
+
+            <hr>
+
+            <label for="apellidos">Apellidos:</label>
+            <input type="text" id="apellidos" class="casillaapellidos" placeholder="ingresa tu apellidos">
+
+            <hr>
+
+            <label for="fecha"> fecha de nacimiento: </label>
+            <input type="date" id="fecha" class="casilladecha">
+
+            <hr>
+
+            <label for="correo">Correo:</label>
+            <input type="email" id="correo" placeholder="ingresa tu correo">
+
+            <hr>
+
+            <label for="Telefono">Telefono:</label>
+            <input type="tel" id="Telefono" class="casillatelefono" placeholder="ingresa tu Telefono">
+
+            <hr>
+
+            <label for="distrito">distrito:</label>
+            <select id="distrito">
+                <option value="comas">comas</option>
+                <option value="los olivos" selected>los olivos</option>
+                <option value="carabayllo">carabayllo</option>
+                <option value="san martin">san martin</option>
+                <option value="callao">callao</option>
+
+            </select>
+            
+            <hr>
+
+            <label for="mascota">mascota:</label>
+            <select id="mascota">
+                <option value="perro">perro</option>
+                <option value="gato" selected>gato</option>
+                <option value="conejo">conejo</option>
+                <option value="hamster">hamster</option>
+                <option value="tortuga">tortuga</option>
+
+            </select>
+
+            <hr>
+
+            <input type="submit" id="enviar" class="botonenviar" value="eniar datos">
+
+        </div>
+
+        <div class="cajaresultado">
+
+            <p id="resultados" class="parrafo-resultados">RESULTADOS DEL USUARIO</p>
+
+        </div>
+
+    </div>
+
+    <!-- <audio controls id="musica" class="cajaaudio">
+
+        <source src="./audios/Ghosting.mp3" type="audio/mp3">
+
+    </audio> -->
+
+    <div class="botonesdeaudio">
+
+        <button id="reproducir">REPRODUCIR</button>
+        <button id="pausar">PAUSAR</button>
+        <button id="parar"> STOP </button>
+
+    </div>
+
+
+
+
+    <script src="./JS/index.js"></script>
+
+</body>
+</html>

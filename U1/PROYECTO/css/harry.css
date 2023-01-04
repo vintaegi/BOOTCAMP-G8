@@ -1,0 +1,46 @@
+body{
+
+    background-image: url(https://images7.alphacoders.com/104/1045635.jpg);
+    text-align: center;
+    color: rgb(255, 247, 236);
+    font-size: 30px;
+    font-family: helvetica;
+}
+
+.casilla-parrafo{
+
+    background-color: rgb(38, 61, 80);
+    color: rgb(255, 255, 255);
+    width: 600px;
+    height: 43px;
+    border-radius: 3px;
+    border-style: inherit;
+    font-family: monospace;
+    font-size: 22px;
+
+    margin-left: 600px;
+    margin-right: 600px;
+
+    padding-top: 10px;
+}
+
+.botones{
+
+    text-align: center;
+    width: 450px;
+    margin: 5px;
+    font-size: 16px;
+
+
+}
+
+.casilla-siguente{
+
+    border-radius: 4px;
+    border-style: hidden;
+    color: rgb(73, 98, 98);
+    width: 600px;
+    height: 30px;
+    margin-bottom: 300px;
+
+}

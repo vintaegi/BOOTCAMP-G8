@@ -1,0 +1,59 @@
+body{
+
+    font-family: georgia;
+    background: url(https://img.freepik.com/vector-premium/plantilla-banner-horizontal-monocromo-manos-dispositivos-reproducir-grabar-escuchar-musica-dibujada-lineas-contorno-sobre-fondo-blanco-ilustracion-vector-moderno-estilo-arte-linea_198278-8941.jpg);
+    text-align: center;
+    font-size: 20px;
+ 
+  }
+  
+  .titulo-principal{
+    font-family:cursive ;
+    text-align: center;
+    color:black;
+    font-size: 60px;  
+    width: 900px;  
+    height: 60px;  
+    margin-left: 500px;
+    margin-right: 500px;  
+    margin-top: 100px;
+
+  }
+  
+  .casilla-datos{
+  
+      background-color: rgba(0, 0, 0, 0.747);
+      text-align: center;
+      font-family: cursive;
+      width: 600px;
+      height: 300px;
+      color: white;
+      margin-left: 600px;
+      margin-right: 600px;
+      margin-bottom: 100px;
+      margin-top: 100px;
+  
+      padding-top: 20px;
+      padding-bottom: 20px;
+      padding-left: 30px;
+      padding-right: 30px;
+  
+      border-style: double;
+      border-color: black;
+  }
+  
+  
+  .casillatexto{
+      font-family: cursive;
+      font-size: 30px;
+      margin-top: 30px;
+      
+  }
+  
+  .casillanombre{
+      font-family: cursive;
+      text-align: center;
+      width: 250px;
+      height: 30px;
+      
+  }    

@@ -1,0 +1,15 @@
+.casillanombre{
+
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium';
+    width: 200px;
+    border: 1px rgb(143, 94, 11);
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.casillaboton{
+
+    width: 220px;
+    height: 30px;
+}

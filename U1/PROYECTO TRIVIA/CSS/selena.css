@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/bb/06/c3/bb06c34b051b98f3d06169a2141d2e4b.jpg);
+    font-family: Georgia;
+}
+
+.contenedor{
+    color: white;
+    border-radius: 15px;
+    border-top: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    border-left: 2px solid rgb(0, 0, 0);
+    border-right: 2px solid rgb(0, 0, 0);
+
+    height: 430px;
+    width: 670px;
+
+    margin: auto;
+    margin-top: 150px;
+
+     background-color: rgba(0, 0, 0, 0.158);
+    text-align: center
+}
+
+.titulo-pregunta{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.parrafo-pregunta{
+    height: 170px;
+    font-size: 20px;
+    font-family: cursive;
+    height: 90px;
+}
+
+.botones{
+    font-family: cursive;
+    width: 350px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.507);
+    border-width: 1.5px;
+    border-radius: 7px;
+    margin: 5px;
+    color: white;
+}

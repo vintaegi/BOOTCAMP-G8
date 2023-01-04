@@ -1,0 +1,59 @@
+.tituloprincipal{
+
+    font-family: monospace;
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(120, 83, 36);
+
+}
+
+.primera-seccion{
+
+    background-color: rgb(124, 146, 100);
+    width: 600px;
+    height: 600px;
+    margin-left: 610px;
+    margin-right: 610px;
+    text-align: center;
+    font-family: inherit;
+    padding-top: 60px;
+    border: 10px rgb(18, 43, 7);
+    border-style:double ;
+
+    outline: 6px black;
+    outline-style:solid ;
+}
+
+.caja1{
+
+    background-color: rgb(189, 203, 154);
+    width: 200px;
+    height: 150px;
+    margin-left: 200px;
+    margin-right: 150px;
+    text-decoration: underline;
+}
+
+.titulo.caja{
+
+    font-size: 35px;
+    font-family: monospace;
+}
+
+.parrafo{
+
+    font-size: 15px;
+    font-family: unset;
+}
+
+.cajita2{
+
+    background-color: rgba(204, 230, 138, 0.598);
+    width: 200px;
+    height: 150px;
+    margin-left: 200px;
+    margin-right: 150px;
+    text-decoration: underline;
+}
+
